@@ -1,0 +1,8 @@
+<!--
+  ~ Copyright (c) 2022 by Hukman Thayib Amri.
+  -->
+
+<resources>
+    <string name="app_name">Template</string>
+    <string name="loading">Loading …</string>
+</resources>
